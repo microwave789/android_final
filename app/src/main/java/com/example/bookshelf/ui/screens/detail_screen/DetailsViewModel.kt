@@ -38,9 +38,6 @@ class DetailsViewModel(
         }
     }
 
-    /**
-     * Factory for BookshelfViewModel] that takes BookshelfRepository] as a dependency
-     */
     companion object {
         val Factory: ViewModelProvider.Factory = viewModelFactory {
             initializer {
