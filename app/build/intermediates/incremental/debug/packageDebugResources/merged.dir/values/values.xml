@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ToDoList</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_holder">Place Holder</string>
+    <style name="Base.Theme.ToDoList" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ToDoList" parent="Base.Theme.ToDoList"/>
+</resources>

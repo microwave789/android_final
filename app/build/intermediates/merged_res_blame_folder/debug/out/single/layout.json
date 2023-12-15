@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.todolist.app-mergeDebugResources-3:/layout/fragment_new_task_sheet.xml",
+        "source": "com.example.todolist.app-main-6:/layout/fragment_new_task_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\merei\\Downloads\\gradle-8.4-all\\daemon\\8.0\\com.example.todolist.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\merei\\Downloads\\gradle-8.4-all\\daemon\\8.0\\com.example.todolist.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.example.todolist.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-mergeDebugResources-3:/layout/task_item_cell.xml",
+        "source": "com.example.todolist.app-main-6:/layout/task_item_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\merei\\Downloads\\gradle-8.4-all\\daemon\\8.0\\com.example.todolist.app-mergeDebugResources-3:\\layout\\fragment_new_task_sheet.xml",
+        "source": "C:\\Users\\merei\\Downloads\\gradle-8.4-all\\daemon\\8.0\\com.example.todolist.app-main-6:\\layout\\fragment_new_task_sheet.xml"
+    }
+]

@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable checked_24
+drawable ic_baseline_add_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable unchecked_24
+id completeButton
+id desc
+id dueTime
+id name
+id newTaskButton
+id saveButton
+id taskCellContainer
+id taskTitle
+id timePickerButton
+id todoListRecyclerView
+layout activity_main
+layout fragment_new_task_sheet
+layout task_item_cell
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string checkbox
+string hello_blank_fragment
+string place_holder
+style Base.Theme.ToDoList
+style Theme.ToDoList
+xml backup_rules
+xml data_extraction_rules
